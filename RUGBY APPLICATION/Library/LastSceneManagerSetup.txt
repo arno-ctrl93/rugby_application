@@ -1,0 +1,17 @@
+sceneSetups:
+- path: Assets/Scenes/EXERCICE menu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/CREATION_DEXOS.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/ENTRAINEMENT MENU.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/PRINCIPAL MENU.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
